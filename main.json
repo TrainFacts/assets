@@ -6,7 +6,7 @@
 		"date": "25-11-2019",
 		"time": "All day",
 		"image": "insert image here",	
-	},
+	}
 	{
 		"title": "2130: Depart Sydney",
 		"subtitle": "Sydney–Tokyo ANA NH 880",
@@ -14,7 +14,7 @@
 		"date": "25-11-2019",
 		"time": "2130 / 9:30pm",
 		"image": "insert image here",
-	},
+	}
 	{
 		"title": "DAY 2 - TUESDAY 26 NOV",
 		"subtitle": "Tokyo",
@@ -22,7 +22,7 @@
 		"date": "26-11-2019",
 		"time": "All day",
 		"image": "insert image here",
-	},
+	}
 	{
 		"title": "0505: Arrive at Tokyo",
 		"subtitle": "Arrive at Tokyo (Haneda) Airport.",
@@ -30,7 +30,7 @@
 		"date": "26-11-2019",
 		"time": "0505 / 5:05am",
 		"image": "insert image here",
-	},
+	}
 	{
 		"title": "0630: Chartered coach transfer",
 		"subtitle": "Haneda –> Hotel",
@@ -38,7 +38,7 @@
 		"date": "26-11-2019",
 		"time": "0630 / 6:30am",
 		"image": "insert image here",
-	},
+	}
 	{
 		"title": "0900: Hotel check-in",
 		"subtitle": "Metropolitan Edmont Hotel Tokyo.",
@@ -46,7 +46,7 @@
 		"date": "26-11-2019",
 		"time": "0900 / 9am",
 		"image": "insert image here",
-	},
+	}
 	{
 		"title": "All day free for rest in Tokyo",
 		"subtitle": "snoooooooooooze",
@@ -54,7 +54,7 @@
 		"date": "26-11-2019",
 		"time": "All day",
 		"image": "insert image here",
-	},
+	}
 	{
 		"title": "DAY 3 - WEDNESDAY 27 NOV",
 		"subtitle": "Tokyo",
@@ -62,5 +62,5 @@
 		"date": "FILL",
 		"time": "FILL",
 		"image": "FILL - insert image here",
-	},
+	}
 ]
