@@ -5,62 +5,62 @@
 		"body": "Depart Sydney for Tokyo",
 		"date": "25-11-2019",
 		"time": "All day",
-		"image": "insert image here",	
-	}
+		"image": "insert image here"
+	},
 	{
 		"title": "2130: Depart Sydney",
 		"subtitle": "Sydney–Tokyo ANA NH 880",
 		"body": "SYD (Sydney) to HND (Tokyo Haneda) via ANA NH 880. Please make sure you have all your important documents with you.",
 		"date": "25-11-2019",
 		"time": "2130 / 9:30pm",
-		"image": "insert image here",
-	}
+		"image": "insert image here"
+	},
 	{
 		"title": "DAY 2 - TUESDAY 26 NOV",
 		"subtitle": "Tokyo",
 		"body": "Your daily allowance today is 1000 JPY ($13.56 AUD) for Lunch and 1500 JPY ($20.35 AUD) for Dinner.",
 		"date": "26-11-2019",
 		"time": "All day",
-		"image": "insert image here",
-	}
+		"image": "insert image here"
+	},
 	{
 		"title": "0505: Arrive at Tokyo",
 		"subtitle": "Arrive at Tokyo (Haneda) Airport.",
 		"body": "Please make sure you have all your important documents with you.",
 		"date": "26-11-2019",
 		"time": "0505 / 5:05am",
-		"image": "insert image here",
-	}
+		"image": "insert image here"
+	},
 	{
 		"title": "0630: Chartered coach transfer",
 		"subtitle": "Haneda –> Hotel",
 		"body": "No data available. If this field should be filled, please contact Adrian at adrian.marcus.widjaja@gmail.com",
 		"date": "26-11-2019",
 		"time": "0630 / 6:30am",
-		"image": "insert image here",
-	}
+		"image": "insert image here"
+	},
 	{
 		"title": "0900: Hotel check-in",
 		"subtitle": "Metropolitan Edmont Hotel Tokyo.",
 		"body": "What a cool hotel!",
 		"date": "26-11-2019",
 		"time": "0900 / 9am",
-		"image": "insert image here",
-	}
+		"image": "insert image here"
+	},
 	{
 		"title": "All day free for rest in Tokyo",
 		"subtitle": "snoooooooooooze",
 		"body": "Tokyo Dorm City TenQ?",
 		"date": "26-11-2019",
 		"time": "All day",
-		"image": "insert image here",
-	}
+		"image": "insert image here"
+	},
 	{
 		"title": "DAY 3 - WEDNESDAY 27 NOV",
 		"subtitle": "Tokyo",
 		"body": "Your daily allowance today is 500 JPY ($6.78 AUD) for Morning, 1000 JPY ($13.56 AUD) for Lunch and 1500 JPY ($20.35 AUD) for Dinner.",
 		"date": "FILL",
 		"time": "FILL",
-		"image": "FILL - insert image here",
-	}
+		"image": "FILL - insert image here"
+	},
 ]
