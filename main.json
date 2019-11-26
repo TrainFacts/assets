@@ -42,7 +42,7 @@
 	{
 		"title": "0900: Hotel check-in",
 		"subtitle": "Metropolitan Edmont Hotel Tokyo",
-		"body": "What a cool hotel!",
+		"body": "Address: 3 Chome-10-8 Iidabashi, Chiyoda, Tokyo 102-0072, Japan \n Phone: +81 3-3237-1111",
 		"date": "26-11-2019 / 26 Nov",
 		"time": "0900 / 9am",
 		"image": "https://www.edmont.jp/application/files/6215/1309/7780/Zeus-Gallery-1400x700px-01_Main_1.jpg"
@@ -92,7 +92,7 @@
 		"subtitle": "Life Safety Learning Course",
 		"body": "No data available. If this field should be filled, please contact Adrian at adrian.marcus.widjaja@gmail.com or go to trainfacts.github.io.",
 		"date": "27-11-2019 / 27 Nov",
-		"time": "1420 - 1620 / 2:20pm - 4:20pm",
+		"time": "1420 - 1620 / 2:20pm to 4:20pm",
 		"image": "https://motherboard-images.vice.com/content-images/contentimage/29940/1453811644514836.jpg"
 	},
 	{
@@ -132,7 +132,111 @@
 		"subtitle": "(Kunoichi Course)",
 		"body": "NINJA AKASAKA is the top ninja-themed entertainment restaurant in Tokyo. At our restaurant we serve luxury Japanese food crafted by the best Japanese chefs!",
 		"date": "28-11-2019 / 28 Nov",
-		"time": "1730 - 2000 / 5:30pm - 8pm",
+		"time": "1730 - 2000 / 5:30pm to 8pm",
 		"image": "https://karaksahotels.com/en/wp/wp-content/uploads/2019/04/eat004-img0.jpg"
-	}
+	},
+	{
+		"title": "DAY 5 - FRIDAY 29 NOV",
+		"subtitle": "Tokyo (Akihabara, Free Time)",
+		"body": "Your daily allowance today is 500 JPY ($6.78 AUD) for Morning, 1000 JPY ($13.56 AUD) for Lunch and 1500 JPY ($20.35 AUD) for Dinner.",
+		"date": "29-11-2019 / 29 Nov",
+		"time": "All day",
+		"image": "https://www.japan-guide.com/g18/3003_01.jpg"
+	},
+	{
+		"title": "Buffet breakfast at the hotel",
+		"subtitle": "Ooh where is the bacon? Or the pineapples? Or the bacon?",
+		"body": "According to a 2019 YouGov Omnibus survey, 12% of Americans who eat pizza say that pineapple is one of their top three favorite pizza toppings, and 24% say that pineapple is one of their least favorite toppings. Only two ingredients were more widely disliked in the survey, anchovies and eggplant.",
+		"date": "29-11-2019 / 29 Nov",
+		"time": "Breakfast time?",
+		"image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/24/17/istock-537640710.jpg?w968h681"
+	},
+	{
+		"title": "Akihabara",
+		"subtitle": "uh oh, it's anime time.",
+		"body": "Akihabara is a buzzing shopping hub famed for its electronics retailers, ranging from tiny stalls to vast department stores like Yodobashi Multimedia Akiba. Venues specializing in manga, anime, and video games include Tokyo Anime Center, for exhibits and souvenirs, and Radio Kaikan with 10 floors of toys, trading cards, and collectibles. Staff dressed as maids or butlers serve tea and desserts at nearby maid cafes.",
+		"date": "29-11-2019 / 29 Nov",
+		"time": "Morning",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tokyo_Anime_Center_20160211.JPG"
+	},
+	{
+		"title": "Free time for sightseeing",
+		"subtitle": "Just please don't get lost on the Tokyo Metro",
+		"body": "No data available. If this field should be filled, please contact Adrian at adrian.marcus.widjaja@gmail.com or go to trainfacts.github.io.",
+		"date": "29-11-2019 / 29 Nov",
+		"time": "Afternoon",
+		"image": "https://awol.junkee.com/wp-content/uploads/2019/11/nintendo-store-japan.jpg"
+	},
+	{
+		"title": "DAY 6 - SATURDAY 30 NOV",
+		"subtitle": "Tokyo/Hakone (Lake Kawaguchi, Oshino Hakkai, Sightseeing)",
+		"body": "Your daily allowance today is 500 JPY ($6.78 AUD) for Morning and 2000 JPY ($27.08 AUD) for Lunch.",
+		"date": "30-11-2019 / 30 Nov",
+		"time": "Afternoon",
+		"image": "https://media-cdn.tripadvisor.com/media/photo-s/16/e1/5f/34/mt-fuji-and-hakone-1.jpg"
+	},
+	{
+		"title": "Buffet breakfast at the hotel",
+		"subtitle": "Ooh where is the bacon? Or the instant noodles? Or the bacon?",
+		"body": "I mean it's pretty self-explanatory.",
+		"date": "30-11-2019 / 30 Nov",
+		"time": "Breakfast time?",
+		"image": "https://steamykitchen.com/wp-content/uploads/2011/04/miso-ramen-recipe-feature-20913.jpg"
+	},
+	{
+		"title": "Baggage Transfer",
+		"subtitle": "From Tokyo to Kyoto by Takkyubin courier",
+		"body": "No data available. If this field should be filled, please contact Adrian at adrian.marcus.widjaja@gmail.com or go to trainfacts.github.io.",
+		"date": "30-11-2019 / 30 Nov",
+		"time": "Probably in the morning",
+		"image": "http://goinjapanesque.com/wpos/wp-content/uploads/2015/10/kuroneko-yamato.jpg"
+	},
+	{
+		"title": "0800: Full day tour",
+		"subtitle": "Depart by chartered coach for full-day tour",
+		"body": "No data available. If this field should be filled, please contact Adrian at adrian.marcus.widjaja@gmail.com or go to trainfacts.github.io.",
+		"date": "30-11-2019 / 30 Nov",
+		"time": "0800 / 8am",
+		"image": "https://media-cdn.tripadvisor.com/media/photo-s/12/1e/00/6d/dsc-0643-largejpg.jpg"
+	},
+	{
+		"title": "1015-1100: Lake Kawaguchi",
+		"subtitle": "Photo Stop",
+		"body": "Lake Kawaguchi is located in the border of the towns of Fujikawaguchiko and Minobu in southern Yamanashi Prefecture near Mount Fuji, Japan. It is the second largest of the Fuji Five Lakes in terms of surface area, and is located at the lowest elevation.",
+		"date": "30-11-2019 / 30 Nov",
+		"time": "1015 - 1100 / 10:15am to 11am",
+		"image": "https://www.japan-guide.com/g18/6906_01.jpg"
+	},
+	{
+		"title": "1130-1300: Oshino Hakkai",
+		"subtitle": "Lunch is not included",
+		"body": "Oshino Hakkai (忍野八海) is a touristy set of eight ponds in Oshino, a small village in the Fuji Five Lake region, located between Lake Kawaguchiko and Lake Yamanakako on the site of a former sixth lake that dried out several hundred years ago. The eight ponds are fed by snow melt from the slopes of nearby Mount Fuji that filters down the mountain through porous layers of lava for over 80 years, resulting in very clear spring water that is revered by the locals. Small village in a scenic setting with 8 ponds, views of Mt. Fuji & vendors of food & souvenirs.",
+		"date": "30-11-2019 / 30 Nov",
+		"time": "1130 - 1300 / 11:30am to 1pm",
+		"image": "https://www.jnto.go.jp/ph/spot-activity/wp-content/uploads/sites/2/2018/10/Oshino-00.jpg"
+	},
+	{
+		"title": "Sightseeing in Hakone",
+		"subtitle": "Don't run out of space on your camera's SD card",
+		"body": "Hakone, in Japan's Fuji-Hakone-Izu National Park west of Tokyo, is a mountainous town known for its hot springs resorts (onsen) and views of the iconic volcano Mount Fuji. It also encompasses Hakone Shrine, a Shinto shrine with a red “torii” gate overlooking Lake Ashi, which can be toured by boat, as well as the boiling sulphur springs of the Owakudani Valley.",
+		"date": "30-11-2019 / 30 Nov",
+		"time": "Afternoon",
+		"image": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/4/2016/12/Hakone-lead-3-1024x681.jpg"
+	},
+	{
+		"title": "1530: Arrive at the hotel",
+		"subtitle": "Hotel Kagetsuen Hakone - Deoderised rooms/NOT non-smoking (so they might smell a bit bad)",
+		"body": "Address: 2-2 Sengokuhara, Hakone, Ashigarashimo District, Kanagawa Prefecture 250-0631, Japan \n Phone: +81 460-84-8621",
+		"date": "30-11-2019 / 30 Nov",
+		"time": "1530 / 3:30pm",
+		"image": "https://media-cdn.tripadvisor.com/media/photo-s/12/1e/00/6d/dsc-0643-largejpg.jpg"
+	},
+	{
+		"title": "1830-2000: Japanese Kaiseki-style dinner",
+		"subtitle": "at the hotel!",
+		"body": "Kaiseki (懐石) or kaiseki-ryōri (懐石料理) is a traditional multi-course Japanese dinner. The term also refers to the collection of skills and techniques that allow the preparation of such meals and is analogous to Western haute cuisine. (Ok wikipedia, what in the nachos is haute cuisine.)",
+		"date": "30-11-2019 / 30 Nov",
+		"time": "1830 - 2000 / 6:30pm to 8pm",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jisaku_Kaiseki_Ryori_01.jpg"
+	},
 ]
