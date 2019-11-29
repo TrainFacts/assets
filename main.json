@@ -350,5 +350,29 @@
 		"date": "2-11-2019 / 2 Dec",
 		"time": "1100 - 1200 / 11am to 12am",
 		"image": "https://www.japan-guide.com/g18/3909_01.jpg"
+	},
+	{
+		"title": "1400-1530: Kiyomizu-dera",
+		"subtitle": "and... it's another temple",
+		"body": "Kiyomizu-dera, formally Otowa-san Kiyomizu-dera, is a Buddhist temple in eastern Kyoto. The temple is part of the Historic Monuments of Ancient Kyoto UNESCO World Heritage site. ",
+		"date": "2-11-2019 / 2 Dec",
+		"time": "1400 - 1530 / 2pm to 3:30pm",
+		"image": "https://d3bbatwdaufxg9.cloudfront.net/content/8514/6459/4406/10-20140723_Kiyomizudera_Mainspot-37-Edit2.jpg"
+	},
+	{
+		"title": "1545-1700: Gion Area",
+		"subtitle": "A part of Kyoto which is pretty cool. And it has a lot of temples.",
+		"body": "Gion is Kyoto’s geisha district, with hostesses in colorful kimonos often sighted on the wooden Tatsumi Bridge, or amid upscale Japanese restaurants and boutiques on Hanamikoji Street. Gion Corner hosts traditional Kyomai dances, while Kennin-ji Temple is known for its Zen garden and Yasaka Shrine has seasonal festivals in a lantern-lit courtyard. Nightlife ranges from quiet sake bars to buzzing, pub-like izakayas.",
+		"date": "2-11-2019 / 2 Dec",
+		"time": "1545 - 1700 / 3:45pm to 5pm",
+		"image": "https://www.japan-guide.com/g18/3902_top.jpg"
+	},
+	{
+		"title": "1700: Return to the hotel",
+		"subtitle": "It's been a long day!",
+		"body": "No data available. If this field should be filled, please contact Adrian at adrian.marcus.widjaja@gmail.com or go to trainfacts.github.io.",
+		"date": "2-11-2019 / 2 Dec",
+		"time": "1700 / 5pm",
+		"image": "https://cdn.bulbagarden.net/upload/thumb/7/7f/Oluolu_Snorlax.png/250px-Oluolu_Snorlax.png"
 	}
 ]
