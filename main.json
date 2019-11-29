@@ -17,7 +17,7 @@
 	},
 	{
 		"title": "DAY 2 - TUESDAY 26 NOV",
-		"subtitle": "Tokyo",
+		"subtitle": "Tokyo (Airport, Hotel, Tokyo Dome City TenQ)",
 		"body": "Your daily allowance today is 1000 JPY ($13.56 AUD) for Lunch and 1500 JPY ($20.35 AUD) for Dinner.",
 		"date": "26-11-2019 / 26 Nov",
 		"time": "All day",
@@ -42,7 +42,7 @@
 	{
 		"title": "0900: Hotel check-in",
 		"subtitle": "Metropolitan Edmont Hotel Tokyo",
-		"body": "Address: 3 Chome-10-8 Iidabashi, Chiyoda, Tokyo 102-0072, Japan \n Phone: +81 3-3237-1111",
+		"body": "Address: 3 Chome-10-8 Iidabashi, Chiyoda, Tokyo 102-0072, Japan \nPhone: +81 3-3237-1111",
 		"date": "26-11-2019 / 26 Nov",
 		"time": "0900 / 9am",
 		"image": "https://www.edmont.jp/application/files/6215/1309/7780/Zeus-Gallery-1400x700px-01_Main_1.jpg"
@@ -50,7 +50,15 @@
 	{
 		"title": "All day free for rest in Tokyo",
 		"subtitle": "snoooooooooooze",
-		"body": "Tokyo Dorm City TenQ?",
+		"body": "Enjoy your nap...",
+		"date": "26-11-2019 / 26 Nov",
+		"time": "All day",
+		"image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2015/02/Ginza-Bay-Hotel-Steven-Vance.jpg"
+	},
+	{
+		"title": "RED: Tokyo Dome City TenQ",
+		"subtitle": "Space is fun",
+		"body": "Be advised, any event prefixed with RED: means that it is red text on the Google Sites itinerary. I have no idea what it means, so please check your Student Handbook. Cool, modern space museum with interactive exhibits & an audio guide, plus a souvenir shop.",
 		"date": "26-11-2019 / 26 Nov",
 		"time": "All day",
 		"image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2015/02/Ginza-Bay-Hotel-Steven-Vance.jpg"
@@ -238,5 +246,109 @@
 		"date": "30-11-2019 / 30 Nov",
 		"time": "1830 - 2000 / 6:30pm to 8pm",
 		"image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jisaku_Kaiseki_Ryori_01.jpg"
+	},
+	{
+		"title": "DAY 7 - SUNDAY 1 DEC",
+		"subtitle": "Hakone/Odawara/Kyoto",
+		"body": "Your daily allowance today is 500 JPY ($6.74 AUD) for Morning, 1000 JPY ($13.48 AUD) for Lunch and 1500 JPY ($20.322 AUD) for Dinner.",
+		"date": "1-12-2019 / 1 Dec",
+		"time": "All day",
+		"image": "https://www.japan-guide.com/g18/5222_01.jpg"
+	},
+	{
+		"title": "Breakfast at the hotel",
+		"subtitle": "Where is the buffet?",
+		"body": "Your daily allowance today is 500 JPY ($6.74 AUD) for Morning, 1000 JPY ($13.48 AUD) for Lunch and 1500 JPY ($20.322 AUD) for Dinner.",
+		"date": "1-12-2019 / 1 Dec",
+		"time": "Morning",
+		"image": "https://freshlyworded.files.wordpress.com/2012/11/5134657339_6b679a1f8f.jpg?w=300"
+	},
+	{
+		"title": "0930-1000: Togendai to Sounzan",
+		"subtitle": "via Hakone Ropeway",
+		"body": "Your daily allowance today is 500 JPY ($6.74 AUD) for Morning, 1000 JPY ($13.48 AUD) for Lunch and 1500 JPY ($20.322 AUD) for Dinner.",
+		"date": "1-12-2019 / 1 Dec",
+		"time": "0930 - 1000 / 9:30am to 10am",
+		"image": "https://japan-highlightstravel.com/img/spot/030035/main_en.jpg"
+	},
+	{
+		"title": "Go to Odawara Station",
+		"subtitle": "小田原駅",
+		"body": "Odawara Station (小田原駅 Odawara-eki) is a railway station in Odawara, Kanagawa, Japan. It is a gateway station to the Hakone area. ",
+		"date": "1-12-2019 / 1 Dec",
+		"time": "After Hakone Ropeway",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/161223_Odawara_Station_Odawara_Japan01s3.jpg"
+	},
+	{
+		"title": "1236: Depart Odawara",
+		"subtitle": "via Shinkansen Kodama 653",
+		"body": "Kodama (こだま, 'Echo') is one of the three train services running on the Tōkaidō and San'yō Shinkansen lines. Stopping at every station, the Kodama is the slowest Shinkansen service for trips between major cities such as Tokyo and Osaka. The Kodama trains are used primarily for travel to and from smaller cities such as Atami. Travelers between major cities generally take the Nozomi or Hikari services, which make fewer stops. The name of the train comes from the Japanese word kodama, which means 'echo'. ",
+		"date": "1-12-2019 / 1 Dec",
+		"time": "1236 / 12:36pm",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JRW-500_V2_inHimeji.jpg/1920px-JRW-500_V2_inHimeji.jpg"
+	},
+	{
+		"title": "1534: Arrive at Kyoto",
+		"subtitle": "well that was quick",
+		"body": "Kyoto, once the capital of Japan, is a city on the island of Honshu. It's famous for its numerous classical Buddhist temples, as well as gardens, imperial palaces, Shinto shrines and traditional wooden houses. It’s also known for formal traditions such as kaiseki dining, consisting of multiple courses of precise dishes, and geisha, female entertainers often found in the Gion district. ",
+		"date": "1-12-2019 / 1 Dec",
+		"time": "1236 / 12:36pm",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JRW-500_V2_inHimeji.jpg/1920px-JRW-500_V2_inHimeji.jpg"
+	},
+	{
+		"title": "Hotel: Kyoto Tower Hotel",
+		"subtitle": "well that was quick",
+		"body": "Address: Japan, 〒600-8216 Kyoto Prefecture, Kyoto, Shimogyo Ward, 七条下る東塩小路町 721-1 Karasuma Dori. Phone: +81 75-361-7261 ",
+		"date": "1-12-2019 / 1 Dec",
+		"time": "1236 / 12:36pm",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JRW-500_V2_inHimeji.jpg/1920px-JRW-500_V2_inHimeji.jpg"
+	},
+	{
+		"title": "DAY 8 - MONDAY 2 DEC",
+		"subtitle": "Kyoto (Kinkakuji, Ryonaji, Kiyomizu-dera, Gion)",
+		"body": "Your daily allowance today is 500 JPY ($6.74 AUD) for Morning, 1000 JPY ($13.48 AUD) for Lunch and 1500 JPY ($20.322 AUD) for Dinner.",
+		"date": "2-11-2019 / 2 Dec",
+		"time": "All day",
+		"image": "https://www.japan-guide.com/g18/5222_01.jpg"
+	},
+	{
+		"title": "Breakfast at the hotel",
+		"subtitle": "Breakfast is the first meal of a day.",
+		"body": "I mean it's pretty self-explanatory, don't you think?",
+		"date": "2-11-2019 / 2 Dec",
+		"time": "All day",
+		"image": "https://img.taste.com.au/GR-XKpyy/taste/2014/10/australias-most-cooked-pancake-recipe-118377-2.jpg"
+	},
+	{
+		"title": "Full day chartered coach tour in Kyoto",
+		"subtitle": "Visit... a bunch of temples?",
+		"body": "No data available. If this field should be filled, please contact Adrian at adrian.marcus.widjaja@gmail.com or go to trainfacts.github.io.",
+		"date": "2-11-2019 / 2 Dec",
+		"time": "All day",
+		"image": "https://photos.smugmug.com/Kyoto/Honeymoon-in-Kyoto/i-LdmsJPZ/0/26b66d84/XL/shutterstock_626644001-XL.jpg"
+	},
+	{
+		"title": "0900: Depart hotel",
+		"subtitle": "Get out of bed you lazy spring roll",
+		"body": "No data available. If this field should be filled, please contact Adrian at adrian.marcus.widjaja@gmail.com or go to trainfacts.github.io.",
+		"date": "2-11-2019 / 2 Dec",
+		"time": "0900 / 9am",
+		"image": "https://www.keihanhotels-resorts.co.jp/tower_hotel/img/language/topkv/sp_pic_kv_slide02.jpg"
+	},
+	{
+		"title": "0930-1030: Kinkakuji",
+		"subtitle": "Golden Pavilion Temple",
+		"body": "Kinkaku-ji, officially named Rokuon-ji, is a Zen Buddhist temple in Kyoto, Japan. It is one of the most popular buildings in Japan, attracting many visitors annually.",
+		"date": "2-11-2019 / 2 Dec",
+		"time": "0930 - 1030 / 9:30am to 10:30am",
+		"image": "https://www.japan-guide.com/g18/3908_top.jpg"
+	},
+	{
+		"title": "1100-1200: Ryoanji",
+		"subtitle": "Temple",
+		"body": "Ryōan-ji is a Zen temple located in northwest Kyoto, Japan. It belongs to the Myōshin-ji school of the Rinzai branch of Zen Buddhism. ",
+		"date": "2-11-2019 / 2 Dec",
+		"time": "1100 - 1200 / 11am to 12am",
+		"image": "https://www.japan-guide.com/g18/3909_01.jpg"
 	}
 ]
